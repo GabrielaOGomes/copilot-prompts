@@ -1,0 +1,191 @@
+Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu a carreira de Engenharia de Dados e tem 10 horas por semana para estudar. Perfeito!
+
+Vou montar agora seu plano completo personalizado com um roadmap de 120 dias para deixar sua evolução mais sólida e confortável.
+
+🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) Engenheiro(a) de Dados:
+
+Construir pipelines para coletar, transformar e organizar dados
+Trabalhar com bancos de dados SQL e NoSQL
+Automatizar fluxos de dados usando Python e ferramentas de ETL
+Criar estruturas para análise de dados e projetos de IA
+Colaborar com cientistas de dados, analistas e desenvolvedores
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+Lógica de programação
+SQL e modelagem de dados
+Python para manipulação e automação
+NICE-TO-HAVE (complementares):
+Cloud Computing (AWS/GCP/Azure)
+Big Data e processamento distribuído
+FERRAMENTAS E TECNOLOGIAS:
+Python
+PostgreSQL
+Pandas
+GitHub
+Apache Airflow
+Docker
+Spark
+📅 ROADMAP DE 120 DIAS
+ADAPTADO PARA: 10 horas/semana
+MÊS 1 - BASE DE PROGRAMAÇÃO
+SEMANA 1-2:
+Revisar lógica de programação
+Reforçar Java básico
+Instalar VS Code, Python e PostgreSQL
+Criar conta no GitHub
+SEMANA 3-4:
+Aprender sintaxe básica de Python
+Variáveis, funções, listas e dicionários
+Fazer exercícios diários
+Publicar códigos simples no GitHub
+MÊS 2 - SQL E DADOS
+SEMANA 5-6:
+Aprender SQL básico
+SELECT, WHERE, ORDER BY e GROUP BY
+Criar banco local no PostgreSQL
+SEMANA 7-8:
+JOINs e modelagem de dados
+Relacionamentos entre tabelas
+Criar mini projeto de consultas SQL
+Documentar tudo no GitHub
+MÊS 3 - PROCESSAMENTO DE DADOS
+SEMANA 9-10:
+Introdução ao Pandas
+Ler CSV e JSON
+Limpeza e tratamento de dados
+SEMANA 11-12:
+Criar scripts ETL simples
+Automatizar transformação de dados
+Introdução ao Docker
+Versionar projetos no GitHub
+MÊS 4 - PIPELINES E PORTFÓLIO
+SEMANA 13-14:
+Introdução ao Apache Airflow
+Criar DAGs simples
+Estudar conceitos de orquestração
+SEMANA 15-16:
+Introdução ao Spark
+Construir projeto final de Engenharia de Dados
+Melhorar README e organização do GitHub
+Simular entrevistas técnicas
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Pipeline Inteligente de Dados de Vendas
+O QUE FAZER:
+
+Criar um pipeline completo que:
+
+coleta dados em CSV
+transforma os dados com Pandas
+salva no PostgreSQL
+automatiza tarefas com Airflow
+executa em ambiente Docker
+
+Como diferencial:
+
+adicionar análises usando Spark
+criar gráficos simples
+organizar tudo em um repositório profissional
+ENTREGÁVEIS:
+Pipeline funcional
+Banco PostgreSQL integrado
+Projeto no GitHub documentado
+README profissional
+Docker configurado
+CRITÉRIOS DE ACEITAÇÃO:
+Pipeline executa automaticamente
+Dados são tratados corretamente
+Projeto possui documentação clara
+Código organizado e reutilizável
+DICA:
+
+Seu GitHub será seu currículo técnico. Foque em organização, commits frequentes e READMEs bem explicados.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: O que faz um Engenheiro de Dados?
+COMO RESPONDER:
+
+“Um Engenheiro de Dados constrói sistemas que coletam, processam e organizam dados para análises, dashboards e aplicações de IA.”
+
+PERGUNTA 2: Qual sua experiência com Python?
+COMO RESPONDER:
+
+“Tenho desenvolvido projetos de automação e processamento de dados usando Python e Pandas, focando em pipelines e transformação de dados.”
+
+PERGUNTA 3: Você já trabalhou com bancos de dados?
+COMO RESPONDER:
+
+“Estou praticando modelagem e consultas SQL usando PostgreSQL, incluindo JOINs, filtros e organização de dados relacionais.”
+
+PERGUNTA 4: O que é ETL?
+COMO RESPONDER:
+
+“ETL significa Extract, Transform and Load. É o processo de extrair dados, transformar informações e carregar em outro sistema para análise.”
+
+PERGUNTA 5: Como você organiza seus estudos?
+COMO RESPONDER:
+
+“Tenho seguido um roadmap estruturado, estudando teoria e aplicando em projetos reais publicados no GitHub.”
+
+🎓 LISTA DE CURSOS RECOMENDADOS
+PYTHON
+Curso em Vídeo - Python
+Python para Data Science - DIO
+Python for Everybody
+POSTGRESQL
+PostgreSQL Tutorial
+SQL para Análise de Dados - DIO
+W3Schools SQL Tutorial
+PANDAS
+Pandas Documentation
+Kaggle Python e Pandas
+Data Analysis with Python - freeCodeCamp
+GITHUB
+GitHub Skills
+GitHub Documentation
+GitHub para Iniciantes - DIO
+APACHE AIRFLOW
+Apache Airflow Documentation
+Astronomer Learn Airflow
+Airflow Fundamentals
+DOCKER
+Docker Docs
+Docker para Iniciantes - DIO
+Play with Docker
+APACHE SPARK
+Apache Spark Documentation
+Spark com PySpark - DIO
+Databricks Academy
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Santander Bootcamp - Engenharia de Dados com Python
+POR QUE ESSA TRILHA:
+
+Ela conecta exatamente com seus objetivos:
+
+Python
+SQL
+ETL
+GitHub
+Docker
+Spark
+Projetos práticos para portfólio
+PRÓXIMOS PASSOS:
+Acesse DIO
+Busque por "Santander Bootcamp - Engenharia de Dados com Python"
+Inscreva-se gratuitamente
+Estude junto com este roadmap de 120 dias
+✨ Seu plano está pronto!
+
+Lembre-se: consistência vence intensidade. Com 10 horas semanais bem organizadas, você consegue construir uma base forte em Engenharia de Dados.
+
+Seu foco agora deve ser:
+
+estudar
+praticar
+publicar no GitHub
+construir portfólio
+
+Isso acelera muito sua entrada no mercado.
