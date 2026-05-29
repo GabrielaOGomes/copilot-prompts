@@ -1,110 +1,198 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🚀 Sistema Inteligente de Planejamento de Carreira em Tecnologia
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+## 📌 Sobre o Projeto
 
-</p>
+Este projeto consiste na criação de dois agentes inteligentes especializados em orientação de carreira na área de tecnologia:
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+* **Agent 1 — Entrevistador de Carreira em Tecnologia**
+* **Agent 2 — Planejador de Carreira**
 
-<br/>
-<br/>
+O objetivo principal é auxiliar pessoas que desejam iniciar ou realizar transição de carreira para a área de tecnologia, criando uma experiência personalizada de descoberta profissional e planejamento de estudos.
 
-## 💻 Sobre o Projeto
+---
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+# 🤖 Agent 1 — Entrevistador de Carreira em Tecnologia
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+## 🎯 Objetivo
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+O Agent 1 foi desenvolvido para atuar como um entrevistador especializado em tecnologia, conduzindo uma entrevista estruturada para identificar:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+* Interesses pessoais
+* Objetivos profissionais
+* Perfil de aprendizado
+* Disponibilidade de estudo
+* Experiências anteriores
+* Áreas de interesse dentro da tecnologia
+* Nível atual de conhecimento
 
-- _Exemplo_:
+A partir dessas informações, o agente consegue mapear o perfil do usuário e preparar os dados necessários para a criação de um plano de carreira personalizado.
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+---
 
-- [Outros pré-requisitos, se aplicável]
+## 🧠 Funcionamento do Agente
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+O Agent 1 realiza uma entrevista em formato conversacional, normalmente composta por perguntas como:
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+1. O que desperta seu interesse em tecnologia?
+2. Você possui experiência prévia?
+3. Quantas horas por semana pode estudar?
+4. Prefere áreas mais analíticas ou criativas?
+5. Possui interesse em programação?
+6. Deseja trabalhar com dados, desenvolvimento, IA ou infraestrutura?
+7. Seu objetivo é conseguir emprego, freelas ou empreender?
 
-- [Lista das habilidades principais a serem desenvolvidas]
+Com base nas respostas, o agente identifica padrões e recomenda a área mais compatível com o perfil do usuário.
 
-  - [Subhabilidades relacionadas, se aplicável]
+---
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+## ⚙️ Tecnologias e Conceitos Utilizados
 
-## 🎯 Objetivos e Resultados Esperados
+* Engenharia de Prompt
+* IA Conversacional
+* Fluxos condicionais
+* Coleta estruturada de informações
+* Personalização baseada em contexto
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+---
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+## 📋 Exemplo de Saída
 
-<!--START_SECTION:footer-->
+### Perfil Detectado
 
-<br />
-<br />
+* Interesse em resolução de problemas
+* Desejo de transição de carreira
+* Interesse em IA e Dados
+* Disponibilidade de 2h por dia
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+### Área Recomendada
+
+* Engenharia de Dados
+
+---
+
+# 🗺️ Agent 2 — Planejador de Carreira
+
+## 🎯 Objetivo
+
+O Agent 2 recebe as informações coletadas pelo Agent 1 e cria um roadmap personalizado de estudos e evolução profissional.
+
+O agente organiza:
+
+* Cronograma de estudos
+* Sequência ideal de aprendizado
+* Ferramentas recomendadas
+* Projetos práticos
+* Cursos sugeridos
+* Estratégia de evolução profissional
+
+---
+
+## 🧠 Funcionamento do Agente
+
+Após receber o perfil do usuário, o Agent 2:
+
+1. Analisa os objetivos profissionais
+2. Define uma trilha de aprendizado
+3. Cria um cronograma de estudos
+4. Organiza conteúdos por nível de dificuldade
+5. Sugere projetos para portfólio
+6. Recomenda tecnologias alinhadas ao mercado
+
+---
+
+## 📚 Exemplo de Roadmap
+
+### Etapa 1 — Fundamentos
+
+* Lógica de programação
+* Python
+* GitHub
+* Linux básico
+
+### Etapa 2 — Dados
+
+* SQL
+* PostgreSQL
+* Pandas
+* Modelagem de dados
+
+### Etapa 3 — Engenharia de Dados
+
+* Apache Airflow
+* Docker
+* Apache Spark
+* ETL e pipelines
+
+### Etapa 4 — Portfólio
+
+* Pipeline de dados completo
+* Projeto com APIs
+* Dashboard analítico
+
+---
+
+## ⚙️ Tecnologias e Conceitos Utilizados
+
+* Engenharia de Prompt
+* Roadmaps personalizados
+* Planejamento adaptativo
+* Estruturação de cronogramas
+* Organização por milestones
+
+---
+
+# 🔄 Fluxo Completo do Sistema
+
+```text
+Usuário
+   ↓
+Agent 1 — Entrevista e Descoberta de Perfil
+   ↓
+Análise das Respostas
+   ↓
+Agent 2 — Planejamento de Carreira
+   ↓
+Roadmap Personalizado
+```
+
+---
+
+# 🎯 Benefícios do Projeto
+
+* Personalização completa
+* Orientação profissional prática
+* Organização dos estudos
+* Redução da sobrecarga de aprendizado
+* Clareza sobre evolução de carreira
+* Direcionamento baseado em objetivos reais
+
+---
+
+# 🧩 Possíveis Evoluções Futuras
+
+* Integração com APIs de cursos
+* Recomendação automática de vagas
+* Dashboard de progresso
+* Sistema de acompanhamento semanal
+* Agente mentor para revisão de estudos
+* Integração com IA generativa
+
+---
+
+# 📌 Público-Alvo
+
+Este sistema foi desenvolvido para:
+
+* Iniciantes em tecnologia
+* Pessoas em transição de carreira
+* Estudantes
+* Profissionais que desejam migrar de área
+* Pessoas interessadas em IA, Dados e Desenvolvimento
+
+---
+
+# 🚀 Conclusão
+
+Os agentes criados formam um sistema inteligente de orientação de carreira em tecnologia, capaz de entender o perfil do usuário e construir um plano de evolução profissional estruturado e personalizado.
+
+A combinação entre entrevista contextual e planejamento automatizado permite criar experiências mais humanas, estratégicas e eficientes para quem deseja crescer no mercado de tecnologia.
